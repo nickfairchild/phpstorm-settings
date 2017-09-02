@@ -1,0 +1,11 @@
+<application>
+  <component name="ExportableFileTemplateSettings">
+    <internal_templates>
+      <template name="Stylus File.styl" reformat="true" live-template-enabled="true" enabled="true" />
+    </internal_templates>
+    <code_templates>
+      <template name="PHP Constructor.php" reformat="true" live-template-enabled="true" enabled="true" />
+      <template name="PHP Implemented Method Body.php" reformat="true" live-template-enabled="true" enabled="true" />
+    </code_templates>
+  </component>
+</application>
