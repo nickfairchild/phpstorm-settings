@@ -5,6 +5,7 @@
       <mapping pattern=".bootstrap" type="JSON" />
       <mapping pattern="tb" type="PHP" />
       <mapping pattern="Caddyfile" type="PLAIN_TEXT" />
+      <mapping pattern=".env.testing" type="PLAIN_TEXT" />
       <mapping pattern=".bootstraprc" type="PLAIN_TEXT" />
       <mapping pattern=".gitattribrutes" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
