@@ -16,4 +16,10 @@
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="PARAMETERS" expression="" defaultValue="" alwaysStopAt="true" />
   </template>
+  <template name="test" value="/** @test */&#10;function it_$NAME$()&#10;{&#10;    $END$&#10;}" description="Test Method" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>
